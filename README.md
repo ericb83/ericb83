@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Eric Boerschinger. - 🔭 I’m currently working on Freedom Homeschool --a homeschool tracker web app used for tracking hours and courses for transcript creation.  - 🌱 I’m currently learning Javascript, Next.JS, TailwindCSS, and Firebase. 
 
 <!--
 **ericb83/ericb83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
